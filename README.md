@@ -61,11 +61,9 @@ Internal tools and workflow platforms
 
 ## 📫 Connect with Me
 
-LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
-Portfolio: https://yourportfolio.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/louie-samaniego-a44001181/))
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=google-chrome)]([https://yourportfolio.com](https://samaniegolouie.github.io/))
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark)
